@@ -1,4 +1,4 @@
-# Probability-of-Death-with-k-NN
+# Probability of Death with k-NN and SVM
 In this project, I predicted the probability of death of a patient that is entering an ICU (Intensive Care Unit) using KNN and SVM.
 
 The dataset comes from MIMIC project (https://mimic.physionet.org/). MIMIC-III (Medical Information Mart for Intensive Care III) is a large, freely-available database comprising deidentified health-related data associated with over forty thousand patients who stayed in critical care units of the Beth Israel Deaconess Medical Center between 2001 and 2012.
